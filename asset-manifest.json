@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/biz-card/static/css/main.75827f47.chunk.css",
+    "main.js": "/biz-card/static/js/main.6c17a8ac.chunk.js",
+    "main.js.map": "/biz-card/static/js/main.6c17a8ac.chunk.js.map",
+    "runtime-main.js": "/biz-card/static/js/runtime-main.23b1799f.js",
+    "runtime-main.js.map": "/biz-card/static/js/runtime-main.23b1799f.js.map",
+    "static/js/2.92801bcd.chunk.js": "/biz-card/static/js/2.92801bcd.chunk.js",
+    "static/js/2.92801bcd.chunk.js.map": "/biz-card/static/js/2.92801bcd.chunk.js.map",
+    "index.html": "/biz-card/index.html",
+    "static/css/main.75827f47.chunk.css.map": "/biz-card/static/css/main.75827f47.chunk.css.map",
+    "static/js/2.92801bcd.chunk.js.LICENSE.txt": "/biz-card/static/js/2.92801bcd.chunk.js.LICENSE.txt",
+    "static/media/biz-card-pic.58d8d846.jpg": "/biz-card/static/media/biz-card-pic.58d8d846.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23b1799f.js",
+    "static/js/2.92801bcd.chunk.js",
+    "static/css/main.75827f47.chunk.css",
+    "static/js/main.6c17a8ac.chunk.js"
+  ]
+}
